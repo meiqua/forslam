@@ -1,0 +1,2 @@
+forslam:rplidar_ros
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/at/changable_ws/devel -DCMAKE_INSTALL_PREFIX=/home/at/changable_ws/install -G Unix Makefiles
